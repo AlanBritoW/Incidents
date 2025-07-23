@@ -27,7 +27,7 @@ Aplicación para registrar y visualizar incidentes operacionales. Consta de un b
    ```
 
 3. Acceder a las aplicaciones:
-   - Frontend: http://localhost
+   - Frontend: http://localhost:5173
    - Backend (Swagger - documentación API): http://localhost:3000/api
 
 ---
