@@ -15,9 +15,9 @@ Aplicación para registrar y visualizar incidentes operacionales. Consta de un b
 
 ## Ejecución con Docker Compose
 
-1. Clonar el repositorio y acceder a la carpeta raÃ­z:
+1. Clonar el repositorio y acceder a la carpeta raí­z:
    ```bash
-   git@github.com:AlanBritoW/Incidents.git
+   git clone git@github.com:AlanBritoW/Incidents.git
    cd incidents
    ```
 
@@ -47,7 +47,7 @@ Aplicación para registrar y visualizar incidentes operacionales. Consta de un b
 
 ---
 
-## TecnologÃ­as utilizadas
+## Tecnologí­as utilizadas
 
 - Backend: NestJS, TypeORM, SQLite, Swagger, Docker
 - Frontend: React, Axios, Bootstrap/Tailwind, Docker
